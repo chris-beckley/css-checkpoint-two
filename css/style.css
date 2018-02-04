@@ -1,7 +1,24 @@
 body {
+  font-size: 16px;
   background-color: #ff0000;
   color: #0000FF;
 }
+
+h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 3em; /*48px*/
+}
+
+h3 {
+  font-family: Helvetica, sans-serif;
+  font-size: 2em; /*32px*/
+}
+
+p {
+  text-align:left; 
+  line-height: 1.6;
+}
+  
 
 nav {
   background-color: rgba(0,0,0,.5);

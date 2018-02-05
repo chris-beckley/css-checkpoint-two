@@ -25,6 +25,11 @@ p {
   line-height: 1.6;
   padding: 10px;
 }
+
+figcaption {
+  text-align:left;
+  padding: 10px;
+}
   
 
 nav {

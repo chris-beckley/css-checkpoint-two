@@ -7,12 +7,14 @@ body {
 h1 {
   font-family: Helvetica, sans-serif;
   font-size: 3em; /*48px*/
+  padding: 30px;
 }
 
 h3 {
   font-family: Helvetica, sans-serif;
   font-size: 1.5em; /*24px*/
   line-height: 175%;
+  padding: 30px;
 }
 
 p {

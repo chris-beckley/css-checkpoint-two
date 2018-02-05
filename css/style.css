@@ -28,9 +28,8 @@ p {
 
 figcaption {
   text-align:left;
-  line-height 1.6;
-  padding: 2px;
-}
+  line-height 0.5;
+ }
   
 
 nav {

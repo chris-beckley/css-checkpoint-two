@@ -67,3 +67,23 @@ article {
   margin: 0 auto;
   width: 50%;
 }
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #2789EC; /*unvisited*/
+}
+
+a:visited {
+  color: #5855AF; /*visited*/
+}
+
+a:hover {
+  color: #2789EB; /*hover*/
+}
+
+a:active {
+  color: #2789ED; /*selected*/
+}
